@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">switcheroo</string>
+    <string name="title_activity_news">NewsActivity</string>
+    <string name="title_activity_web_page">WebPageActivity</string>
+</resources>
