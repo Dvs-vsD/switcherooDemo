@@ -38,6 +38,8 @@ Material 3 Components - Used for styling the UI.
 
 🎥 Demo Video
 
+https://github.com/user-attachments/assets/d2822ede-5977-4982-8194-9a5d5105f85d
+
 
 
 This project is just a demo to show my UI skills, and some of the things are hard coded in this quick iteration.
